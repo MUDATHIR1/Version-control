@@ -32,6 +32,17 @@ System.out.println("The value of num2 is " +  num2);
 System.out.println(num1 / num2);
 System.out.println("The value of num1 / num2 is " + division);
 
+Math.min(3, 4);
+Math.sqrt(76);
+
+System.out.println(Math.min(3, 4));
+System.out.println(Math.sqrt(76));
+System.out.println(25 > 20);
+int Z = 99;
+System.out.println(Z < 12);
+
+System.out.println(Z == 12);
+System.out.println(Z == 99);
 
 
 
