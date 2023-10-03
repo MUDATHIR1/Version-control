@@ -18,7 +18,6 @@ System.out.println("......Printer App......");
 System.out.println("This app is made by:");
 
 
-
 System.out.println("This app is made by " + creator);
 
 
