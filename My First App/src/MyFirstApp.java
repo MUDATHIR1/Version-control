@@ -15,9 +15,6 @@ double division = num1 / num2;
 
 System.out.println("......Printer App......");
 
-System.out.println("This app is made by:");
-
-
 System.out.println("This app is made by " + creator);
 
 System.out.println("num1");
