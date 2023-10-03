@@ -45,6 +45,15 @@ System.out.println(Z == 12);
 System.out.println(Z == 99);
 
 
+int myAge = 30;
+int votingAge = 18;
+
+if (myAge >= 18){
+	System.out.println("Old Enough To Vote");
+	} else {
+		System.out.println("Not old enough to vote");
+	}
+
 
 
 
